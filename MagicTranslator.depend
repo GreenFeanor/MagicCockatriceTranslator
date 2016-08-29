@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1421236881 source:g:\programmation\magictranslator\main.cpp
+	<iostream>
+	<fstream>
+	<String>
+	<cstdlib>
+
+1421004389 source:g:\programmation\magictranslator\src\handlingcardfile.cpp
+
+1421005596 g:\programmation\magictranslator\include\handlingcardfile.h
+
